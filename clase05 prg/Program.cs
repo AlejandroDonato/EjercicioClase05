@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Class1;
+using Class2;
 
 namespace clase05_prg
 {
